@@ -1,0 +1,39 @@
+.liContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 8px;
+  align-items: center;
+}
+
+.itemContainer {
+  display: flex;
+  flex-direction: row;
+}
+
+.but {
+  background-color: white;
+  border: 0px;
+  cursor: pointer;
+}
+
+.time {
+  color: #64748b;
+  font-weight: bold;
+  padding-right: 30px;
+}
+
+.img {
+  padding: 12px;
+}
+
+.title {
+  color: #64748b;
+  font-weight: bold;
+}
+
+.url {
+  color: #6697ff;
+  font-weight: bold;
+  padding-left: 15px;
+}
